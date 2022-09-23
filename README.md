@@ -54,7 +54,7 @@
     call("decorator sebuah class");
     ```
     
-4. func recive array as input
+4. func only received array as input
     ```sh
     let tryArray = new Array <Number>();
       tryArray = [1,2,3,4]
