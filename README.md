@@ -57,9 +57,10 @@
 4. func only received array as input
     ```sh
     let tryArray = new Array <Number>();
-      tryArray = [1,2,3,4]
-      function arrayContainers(array:any){
-          tryArray.concat(array);
+    tryArray = [1,2,3,4]
+    
+    function arrayContainers(array:any){
+        tryArray.concat(array);
     }
 
     let array = [5, 6, 7, 8];
